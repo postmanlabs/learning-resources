@@ -7,6 +7,7 @@
 # For developers
 
 - [30 days of Postman - for developers](https://www.postman.com/postman/workspace/30-days-of-postman-for-developers/overview) | hands-on mini-challenges for badge of completion
+- [Mock Server Starter Kit](https://www.postman.com/devrel/workspace/devrel-re-public/collection/19408657-9d050050-0cfe-4629-aac5-d99818cf4221?ctx=documentation) | workshop to get started with creating a mock server in Postman
 
 # For testers
 - [Test examples in Postman](https://www.postman.com/postman/workspace/test-examples-in-postman/overview) | workspace with test script examples and workflows 
